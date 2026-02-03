@@ -20,7 +20,7 @@ Allocate exam classrooms using the minimum number of rooms while preferring lowe
 - Minimum number of rooms allocated
 
 ## Live Deployment
-(Add your deployed URL here)
+(https://seat-saver-main.vercel.app/)
 
 ## GitHub Repository
-()
+(https://github.com/Priyanshu031104/seat-saver-main)
